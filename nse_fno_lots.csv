@@ -1,0 +1,230 @@
+All Companies,Symbol,LotSize,Sector
+360 One WAM,360ONE,500, Stock Broker
+Bajaj Auto,BAJAJ-AUTO,75,2 3 Wheelers
+Eicher Motors,EICHERMOT,175,2 3 Wheelers
+Hero Motocorp,HEROMOTOCO,150,2 3 Wheelers
+TVS Motors,TVSMOTOR,350,2 3 Wheelers
+Mahindra & Mahindra,M&M,200,4 Wheelers
+Maruti Suzuki,MARUTI,50,4 Wheelers
+Tata Motors,TATAMOTORS,800,4 Wheelers
+Interglobe Aviation,INDIGO,150,Airline
+GMR Airports,GMRAIRPORT,6975,Airports
+United Spirits,UNITDSPR,400,Alcohol
+Hindalco Industries,HINDALCO,1400,Aluminium
+NALCO,NATIONALUM,3750,Aluminium
+HDFC AMC,HDFCAMC,150,AMC
+Bharat Forge,BHARATFORG,500,Auto Components
+Bosch,BOSCHLTD,25,Auto Components
+Samvardhana Motherson International,MOTHERSON,4100,Auto Components
+Sona BLW Precision Forgings,SONACOMS,1050,Auto Components
+Tube Investment,TIINDIA,200,Auto Components
+UNO Minda,UNOMINDA,550,Auto Components
+Exide Industries,EXIDEIND,1800,Batteries
+Varun Beverages,VBL,1025,Beverages
+KEI Industries,KEI,175,Cabels
+Polycab,POLYCAB,125,Cabels
+ACC,ACC,300,Cement
+Ambuja Cements,AMBUJACEM,1050,Cement
+Dalmia Bharat,DALBHARAT,325,Cement
+Grasim Industries,GRASIM,250,Cement
+Shree Cement,SHREECEM,25,Cement
+UltraTech Cement,ULTRACEMCO,50,Cement
+Aarti Industries,AARTIIND,1325,Chemicals
+Pidilite Industries,PIDILITIND,250,Adhesives
+SRF,SRF,200,Chemicals
+Tata Chemicals,TATACHEM,650,Inorganic Chemicals
+IRB Infrastructure Developers,IRB,11675,Civil Construction
+Larsen & Toubro,LT,175,Civil Construction
+NBCC,NBCC,6500,Civil Construction
+NCC,NCC,2700,Civil Construction
+Rail Vikas Nigam,RVNL,1375,Civil Construction
+Ashok Leyland,ASHOKLEY,2500,Commercial Vehicles
+Dixon Technologies,DIXON,50,Consumer Electronics
+Havells,HAVELLS,500,Consumer Electronics
+PG Electroplast,PGEL,700,Consumer Electronics
+Hindustan Copper,HINDCOPPER,2650,Copper
+Bharat Dynamics,BDL,325,Defense
+Bharat Electronics,BEL,2850,Defense
+Hindustan Aeronautics,HAL,150,Defense
+Avenue Supermarts DMart,DMART,150,Diversified Retail
+Eternal,ETERNAL,2425,E Commerce Food
+Nykaa,NYKAA,3125,FMCG Care
+ABB,ABB,125,Electric Equipments
+Bharat Heavy Electricals,BHEL,2625,Electric Equipments
+CG Power & Industrial Solutions,CGPOWER,850,Electric Equipments
+Inox Wind,INOXWIND,3225,Electric Equipments
+Siemens,SIEMENS,125,Electric Equipments
+Cummins,CUMMINSIND,200,Engines
+BSE,BSE,375,Exchange
+Indian Energy Exchange,IEX,3750,Exchange
+MCX,MCX,125,Exchange
+Solar Industries,SOLARINDS,75,Explosives
+Aditya Birla Fashion & Retail,ABFRL,2600,Fashion Retail
+Trent,TRENT,100,Fashion Retail
+Chambal Fertilisers & Chemicals,CHAMBLFERT,950,Fertilizers
+PI Industries,PIIND,175,Fertilizers
+UPL,UPL,1355,Fertilizers
+CDSL,CDSL,475,Fin Serv
+Computer Age Management Services,CAMS,150,Fin Serv
+KFin Technologies,KFINTECH,450,Fin Serv
+One 97 Communications,PAYTM,725,Fin Tech
+PB FinTech,POLICYBZR,350,Fin Tech
+Vedanta,VEDL,1150,Financial Products Distributor
+Colgate Palmolive,COLPAL,225,FMCG Care
+Dabur,DABUR,1250,FMCG Care
+Godrej Consumer Products,GODREJCP,500,FMCG Care
+Hindustan Unilever,HINDUNILVR,300,FMCG Diverse
+ITC,ITC,1600,FMCG Diverse
+Britannia Industries,BRITANNIA,125,FMCG Food
+Marico,MARICO,1200,FMCG Food
+Nestle,NESTLEIND,250,FMCG Food
+Patanjali Foods,PATANJALI,300,FMCG Food
+Page Industries,PAGEIND,15,Garments
+Adani Total Gas,ATGL,875,Gas
+GAIL,GAIL,3150,Gas
+Indraprastha Gas,IGL,2750,Gas
+Mahanagar Gas,MGL,400,Gas
+Oil & Natural Gas Corporation,ONGC,2250,Gas
+Petronet LNG,PETRONET,1800,Gas
+ICICI Lombard General Insurance,ICICIGI,325,General Insurance
+Apollo Hospitals,APOLLOHOSP,125,Healthcare
+Fortis Healthcare,FORTIS,775,Healthcare
+Max Healthcare Institute,MAXHEALTH,525,Healthcare
+Syngene International,SYNGENE,1000,Healthcare Research
+Bajaj Finserv,BAJAJFINSV,500,Holdings
+Indian Hotels Company,INDHOTEL,1000,Hotels
+Amber Enterprises,AMBER,100,Household Appliances
+Blue Star,BLUESTARCO,325,Household Appliances
+Crompton Greaves,CROMPTON,1800,Household Appliances
+Voltas,VOLTAS,375,Household Appliances
+HUDCO,HUDCO,2775,Housing Finance
+LIC Housing Finance,LICHSGFIN,1000,Housing Finance
+PNB Housing Finance,PNBHOUSING,650,Housing Finance
+Finnifty,FINNIFTY,65,Index
+Nifty 50,NIFTY,75,Index
+Nifty Bank,BANKNIFTY,35,Index
+Nifty Midcap Select,MIDCPNIFTY,140,Index
+Nifty Next 50,NIFTY NEXT 50,25,Index
+Kaynes Technology,KAYNES,100,Industrial Products
+Info Edge,NAUKRI,375,Internet Retail
+Aditya Birla Capital,ABCAPITAL,3100,Investment
+Jio Financial Services,JIOFIN,2350,Investment
+Jindal Stainless,JSL,850,Iron and Steel
+Jindal Steel,JINDALSTEL,625,Iron and Steel
+JSW Steel,JSWSTEEL,675,Iron and Steel
+Steel Authority of India,SAIL,4700,Iron and Steel
+Tata Steel,TATASTEEL,5500,Iron and Steel
+APL Apollo Tubes,APLAPOLLO,350,Iron and Steel Products
+HCL Technologies,HCLTECH,350,IT Large
+Infosys,INFY,400,IT Large
+Persistent Systems,PERSISTENT,100,IT Large
+Tata Consultancy Services,TCS,175,IT Large
+Tech Mahindra,TECHM,600,IT Large
+Wipro,WIPRO,3000,IT Large
+Cyient,CYIENT,425,IT Services
+Tata Technologies,TATATECH,800,IT Services
+Birlasoft,BSOFT,1300,IT Small
+Coforge,COFORGE,375,IT Small
+KPIT Technologies,KPITTECH,400,IT Small
+LTI Mindtree,LTIM,150,IT Small
+Mphasis,MPHASIS,275,IT Small
+Tata Elxsi,TATAELXSI,100,IT Small
+Oracle Financial Services Software,OFSS,75,IT Software
+Kalyan Jewellers,KALYANKJIL,1175,Jewelry
+Titan,TITAN,175,Jewelry
+HDFC Life Insurance,HDFCLIFE,1100,Life Insurance
+ICICI Prudential Life Insurance,ICICIPRULI,925,Life Insurance
+LIC of India,LICI,700,Life Insurance
+SBI Life Insurance,SBILIFE,375,Life Insurance
+Container Corporation of India,CONCOR,1250,Logistics
+Delhivery,DELHIVERY,2075,Logistics
+Adani Enterprises,ADANIENT,300,Mining
+Coal India,COALINDIA,1350,Mining
+NMDC,NMDC,13500,Mining
+Bajaj Finance,BAJFINANCE,750,NBFC
+Cholamandalam Investment,CHOLAFIN,625,NBFC
+IIFL Finance,IIFL,1650,NBFC
+L&T Finance,LTF,4462,NBFC
+M&M Financial Services,M&MFIN,2056,NBFC
+Manappuram Finance,MANAPPURAM,3000,NBFC
+Max Financial Services,MFSL,800,NBFC
+Muthoot Finance,MUTHOOTFIN,275,NBFC
+Piramal Enterprises,PEL,750,NBFC
+Poonawalla Fincorp,POONAWALLA,1700,NBFC
+SBI Cards,SBICARD,800,NBFC
+Shriram Finance,SHRIRAMFIN,825,NBFC
+Asian Paints,ASIANPAINT,250,Paint
+Alkem Laboratories,ALKEM,125,Pharma
+Aurobindo Pharma,AUROPHARMA,550,Pharma
+Biocon,BIOCON,2500,Pharma
+Cipla,CIPLA,375,Pharma
+Divis Laboratories,DIVISLAB,100,Pharma
+Dr Reddys Laboratories,DRREDDY,625,Pharma
+Glenmark Pharmaceuticals,GLENMARK,375,Pharma
+Granules,GRANULES,1075,Pharma
+Laurus Labs,LAURUSLABS,1700,Pharma
+Lupin,LUPIN,425,Pharma
+Mankind Pharma,MANKIND,225,Pharma
+Piramal Pharma,PPLPHARMA,2500,Pharma
+Sun Pharmaceutical,SUNPHARMA,350,Pharma
+Torrent Pharmaceuticals,TORNTPHARM,250,Pharma
+Zydus Life Science,ZYDUSLIFE,900,Pharma
+Astral,ASTRAL,425,Plastic Products
+Supreme Industries,SUPREMEIND,175,Plastic Products
+Adani Ports & SEZ,ADANIPORTS,475,Port Service
+Power Finance Corporation,PFC,1300,Power Development
+REC,RECLTD,1275,Power Development
+Adani Energy Solutions,ADANIENSOL,675,Power Transmission
+Adani Green Energy,ADANIGREEN,600,Power Generation
+CESC,CESC,3625,Power Generation
+JSW Energy,JSWENERGY,1000,Power Generation
+NHPC,NHPC,6400,Power Generation
+NTPC,NTPC,1500,Power Generation
+SJVN,SJVN,5875,Power Generation
+Tata Power,TATAPOWER,1450,Power Generation
+Torrent Power,TORNTPOWER,375,Power Generation
+Power Grid Corporation of India,POWERGRID,1900,Power Transmission
+AU Small Finance Bank,AUBANK,1000,Private Bank
+Axis Bank,AXISBANK,625,Private Bank
+Bandhan Bank,BANDHANBNK,3600,Private Bank
+HDFC Bank,HDFCBANK,550,Private Bank
+ICICI Bank,ICICIBANK,700,Private Bank
+IDFC First Bank,IDFCFIRSTB,9275,Private Bank
+Indusind Bank,INDUSINDBK,700,Private Bank
+Kotak Bank,KOTAKBANK,400,Private Bank
+RBL Bank,RBLBANK,3175,Private Bank
+Yes Bank,YESBANK,31100,Private Bank
+Bank of Baroda,BANKBARODA,2925,Public Bank
+Bank of India,BANKINDIA,5200,Public Bank
+Canara Bank,CANBK,6750,Public Bank
+Federal Bank,FEDERALBNK,5000,Public Bank
+Indian Bank,INDIANB,1000,Public Bank
+Punjab National Bank,PNB,8000,Public Bank
+State Bank of India,SBIN,750,Public Bank
+Union Bank of India,UNIONBANK,4425,Public Bank
+IRFC,IRFC,4250,Railway Development
+Titagarh Rail Systems,TITAGARH,725,Railway Wagons
+DLF,DLF,825,Realty
+Godrej Properties,GODREJPROP,275,Realty
+Macrotech Developers,LODHA,450,Realty
+Oberoi Realty,OBEROIRLTY,350,Realty
+Phoenix Mills,PHOENIXLTD,350,Realty
+Prestige Estate,PRESTIGE,450,Realty
+Bharat Petroleum,BPCL,1975,Refineries
+Hindustan Petroleum,HINDPETRO,2025,Refineries
+Indian Oil Corporation,IOC,4875,Refineries
+Oil India,OIL,1400,Refineries
+Reliance Industries,RELIANCE,500,Refineries
+IREDA,IREDA,3450,Renewable Energy Development
+Jubilant FoodWorks,JUBLFOOD,1250,Restaurants
+Mazagon Dock Shipbuilders,MAZDOCK,175,Ship Building
+Angel One,ANGELONE,250,Stock Broking
+Tata Consumer Products,TATACONSUM,550,Tea Coffee
+Bharti Airtel,BHARTIARTL,475,Telecom
+Vodafone Idea,IDEA,71475,Telecom
+Tata Communications,TATACOMM,350,Telecom
+HFCL,HFCL,6450,Telecom Infra
+Indus Towers,INDUSTOWER,1700,Telecom Infra
+IRCTC,IRCTC,875,Travel
+Balkrishna Industries,BALKRISIND,300,Tyres
+Hindustan Zinc,HINDZINC,1225,Zinc
