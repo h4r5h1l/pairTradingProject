@@ -99,8 +99,3 @@ python test_stats.py
 This repository contains code snippets and utilities for private use. No license file is included; add a license if you plan to publish or share widely.
 
 ---
-
-If you'd like, I can also:
-
-- run a quick smoke test using a single symbol pair, or
-- adjust README wording or add examples showing how to customize pair parameters.
